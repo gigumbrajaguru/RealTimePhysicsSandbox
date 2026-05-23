@@ -1,0 +1,13 @@
+# ninja log v5
+2	242	1779534644545084212	CMakeFiles/imgui.dir/thirdparty/imgui/backends/imgui_impl_opengl3.cpp.o	cab22e212217c58
+2	394	1779534644697096414	CMakeFiles/imgui.dir/thirdparty/imgui/backends/imgui_impl_glfw.cpp.o	616c5df61e4f3f5a
+2	1629	1779534645930195261	CMakeFiles/imgui.dir/thirdparty/imgui/imgui_demo.cpp.o	25dc68243e80a080
+2	1775	1779534646077207029	CMakeFiles/imgui.dir/thirdparty/imgui/imgui_tables.cpp.o	a035d4ce5c8c1f10
+1	2533	1779534646834267584	CMakeFiles/imgui.dir/thirdparty/imgui/imgui_draw.cpp.o	979b208adeb45206
+2	2688	1779534646990280063	CMakeFiles/imgui.dir/thirdparty/imgui/imgui_widgets.cpp.o	d7a7a505128215a
+1	3801	1779534648101368769	CMakeFiles/imgui.dir/thirdparty/imgui/imgui.cpp.o	d24a51eeb47cf40f
+2	136	1779534812589286615	libimgui.a	963e5a0e5c80e291
+3	246	1779534812706801747	CMakeFiles/PhysicsSandbox.dir/src/main.cpp.o	546f3204171e239
+2	859	1779534813318838571	CMakeFiles/glad.dir/thirdparty/glad/src/glad.c.o	4779a51297b6b5b5
+859	927	1779534813386375278	libglad.a	9e3a742de9c89028
+927	1088	1779534813546852278	PhysicsSandbox	35cc6718b6675971

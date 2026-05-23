@@ -1,0 +1,56 @@
+[
+{
+  "directory": "/home/gigummbrajaguru/Graphics-Dev/RealTimePhysicsSandbox/build",
+  "command": "/usr/bin/cc -I/home/gigummbrajaguru/Graphics-Dev/RealTimePhysicsSandbox/thirdparty/glad/include -g -o CMakeFiles/glad.dir/thirdparty/glad/src/glad.c.o -c /home/gigummbrajaguru/Graphics-Dev/RealTimePhysicsSandbox/thirdparty/glad/src/glad.c",
+  "file": "/home/gigummbrajaguru/Graphics-Dev/RealTimePhysicsSandbox/thirdparty/glad/src/glad.c",
+  "output": "CMakeFiles/glad.dir/thirdparty/glad/src/glad.c.o"
+},
+{
+  "directory": "/home/gigummbrajaguru/Graphics-Dev/RealTimePhysicsSandbox/build",
+  "command": "/usr/bin/c++ -I/home/gigummbrajaguru/Graphics-Dev/RealTimePhysicsSandbox/thirdparty/imgui -I/home/gigummbrajaguru/Graphics-Dev/RealTimePhysicsSandbox/thirdparty/imgui/backends -g -std=c++20 -o CMakeFiles/imgui.dir/thirdparty/imgui/imgui.cpp.o -c /home/gigummbrajaguru/Graphics-Dev/RealTimePhysicsSandbox/thirdparty/imgui/imgui.cpp",
+  "file": "/home/gigummbrajaguru/Graphics-Dev/RealTimePhysicsSandbox/thirdparty/imgui/imgui.cpp",
+  "output": "CMakeFiles/imgui.dir/thirdparty/imgui/imgui.cpp.o"
+},
+{
+  "directory": "/home/gigummbrajaguru/Graphics-Dev/RealTimePhysicsSandbox/build",
+  "command": "/usr/bin/c++ -I/home/gigummbrajaguru/Graphics-Dev/RealTimePhysicsSandbox/thirdparty/imgui -I/home/gigummbrajaguru/Graphics-Dev/RealTimePhysicsSandbox/thirdparty/imgui/backends -g -std=c++20 -o CMakeFiles/imgui.dir/thirdparty/imgui/imgui_draw.cpp.o -c /home/gigummbrajaguru/Graphics-Dev/RealTimePhysicsSandbox/thirdparty/imgui/imgui_draw.cpp",
+  "file": "/home/gigummbrajaguru/Graphics-Dev/RealTimePhysicsSandbox/thirdparty/imgui/imgui_draw.cpp",
+  "output": "CMakeFiles/imgui.dir/thirdparty/imgui/imgui_draw.cpp.o"
+},
+{
+  "directory": "/home/gigummbrajaguru/Graphics-Dev/RealTimePhysicsSandbox/build",
+  "command": "/usr/bin/c++ -I/home/gigummbrajaguru/Graphics-Dev/RealTimePhysicsSandbox/thirdparty/imgui -I/home/gigummbrajaguru/Graphics-Dev/RealTimePhysicsSandbox/thirdparty/imgui/backends -g -std=c++20 -o CMakeFiles/imgui.dir/thirdparty/imgui/imgui_tables.cpp.o -c /home/gigummbrajaguru/Graphics-Dev/RealTimePhysicsSandbox/thirdparty/imgui/imgui_tables.cpp",
+  "file": "/home/gigummbrajaguru/Graphics-Dev/RealTimePhysicsSandbox/thirdparty/imgui/imgui_tables.cpp",
+  "output": "CMakeFiles/imgui.dir/thirdparty/imgui/imgui_tables.cpp.o"
+},
+{
+  "directory": "/home/gigummbrajaguru/Graphics-Dev/RealTimePhysicsSandbox/build",
+  "command": "/usr/bin/c++ -I/home/gigummbrajaguru/Graphics-Dev/RealTimePhysicsSandbox/thirdparty/imgui -I/home/gigummbrajaguru/Graphics-Dev/RealTimePhysicsSandbox/thirdparty/imgui/backends -g -std=c++20 -o CMakeFiles/imgui.dir/thirdparty/imgui/imgui_widgets.cpp.o -c /home/gigummbrajaguru/Graphics-Dev/RealTimePhysicsSandbox/thirdparty/imgui/imgui_widgets.cpp",
+  "file": "/home/gigummbrajaguru/Graphics-Dev/RealTimePhysicsSandbox/thirdparty/imgui/imgui_widgets.cpp",
+  "output": "CMakeFiles/imgui.dir/thirdparty/imgui/imgui_widgets.cpp.o"
+},
+{
+  "directory": "/home/gigummbrajaguru/Graphics-Dev/RealTimePhysicsSandbox/build",
+  "command": "/usr/bin/c++ -I/home/gigummbrajaguru/Graphics-Dev/RealTimePhysicsSandbox/thirdparty/imgui -I/home/gigummbrajaguru/Graphics-Dev/RealTimePhysicsSandbox/thirdparty/imgui/backends -g -std=c++20 -o CMakeFiles/imgui.dir/thirdparty/imgui/imgui_demo.cpp.o -c /home/gigummbrajaguru/Graphics-Dev/RealTimePhysicsSandbox/thirdparty/imgui/imgui_demo.cpp",
+  "file": "/home/gigummbrajaguru/Graphics-Dev/RealTimePhysicsSandbox/thirdparty/imgui/imgui_demo.cpp",
+  "output": "CMakeFiles/imgui.dir/thirdparty/imgui/imgui_demo.cpp.o"
+},
+{
+  "directory": "/home/gigummbrajaguru/Graphics-Dev/RealTimePhysicsSandbox/build",
+  "command": "/usr/bin/c++ -I/home/gigummbrajaguru/Graphics-Dev/RealTimePhysicsSandbox/thirdparty/imgui -I/home/gigummbrajaguru/Graphics-Dev/RealTimePhysicsSandbox/thirdparty/imgui/backends -g -std=c++20 -o CMakeFiles/imgui.dir/thirdparty/imgui/backends/imgui_impl_glfw.cpp.o -c /home/gigummbrajaguru/Graphics-Dev/RealTimePhysicsSandbox/thirdparty/imgui/backends/imgui_impl_glfw.cpp",
+  "file": "/home/gigummbrajaguru/Graphics-Dev/RealTimePhysicsSandbox/thirdparty/imgui/backends/imgui_impl_glfw.cpp",
+  "output": "CMakeFiles/imgui.dir/thirdparty/imgui/backends/imgui_impl_glfw.cpp.o"
+},
+{
+  "directory": "/home/gigummbrajaguru/Graphics-Dev/RealTimePhysicsSandbox/build",
+  "command": "/usr/bin/c++ -I/home/gigummbrajaguru/Graphics-Dev/RealTimePhysicsSandbox/thirdparty/imgui -I/home/gigummbrajaguru/Graphics-Dev/RealTimePhysicsSandbox/thirdparty/imgui/backends -g -std=c++20 -o CMakeFiles/imgui.dir/thirdparty/imgui/backends/imgui_impl_opengl3.cpp.o -c /home/gigummbrajaguru/Graphics-Dev/RealTimePhysicsSandbox/thirdparty/imgui/backends/imgui_impl_opengl3.cpp",
+  "file": "/home/gigummbrajaguru/Graphics-Dev/RealTimePhysicsSandbox/thirdparty/imgui/backends/imgui_impl_opengl3.cpp",
+  "output": "CMakeFiles/imgui.dir/thirdparty/imgui/backends/imgui_impl_opengl3.cpp.o"
+},
+{
+  "directory": "/home/gigummbrajaguru/Graphics-Dev/RealTimePhysicsSandbox/build",
+  "command": "/usr/bin/c++ -I/home/gigummbrajaguru/Graphics-Dev/RealTimePhysicsSandbox/src -I/home/gigummbrajaguru/Graphics-Dev/RealTimePhysicsSandbox/thirdparty/glad/include -I/home/gigummbrajaguru/Graphics-Dev/RealTimePhysicsSandbox/thirdparty/imgui -I/home/gigummbrajaguru/Graphics-Dev/RealTimePhysicsSandbox/thirdparty/imgui/backends -g -std=c++20 -Wall -Wextra -Werror -g3 -O0 -fsanitize=address,undefined -fno-omit-frame-pointer -o CMakeFiles/PhysicsSandbox.dir/src/main.cpp.o -c /home/gigummbrajaguru/Graphics-Dev/RealTimePhysicsSandbox/src/main.cpp",
+  "file": "/home/gigummbrajaguru/Graphics-Dev/RealTimePhysicsSandbox/src/main.cpp",
+  "output": "CMakeFiles/PhysicsSandbox.dir/src/main.cpp.o"
+}
+]
